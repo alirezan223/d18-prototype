@@ -1,0 +1,1 @@
+let button = myText.getElementById("myButton");

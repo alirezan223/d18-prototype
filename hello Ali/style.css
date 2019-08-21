@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(218, 154, 175)
+}
+
+.name {}
+
+.mamasita {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+/* button */
+#button:hover {
+    background-color: aqua;
+
+}
+
+#button {
+    padding: 10PX 25px;
+    box-shadow: 10px 10px;
+    margin-left: 15px;
+}
+
+#Name {
+    padding: 10PX;
+    box-shadow: 10px 10px;
+}
