@@ -1,0 +1,30 @@
+#container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.red,
+.green,
+.blue {
+    padding: 25px;
+    margin: 5px;
+}
+
+.blue:hover {
+    border-color: rgb(75, 75, 255);
+    background-color: rgb(154, 156, 165);
+    color: black;
+}
+
+.red:hover {
+    border-color: rgb(255, 75, 75);
+    background-color: rgb(154, 156, 165);
+    color: black;
+}
+
+.green:hover {
+    border-color: rgb(96, 255, 75);
+    background-color: rgb(154, 156, 165);
+    color: black;
+}
